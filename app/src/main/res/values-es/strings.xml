@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rick &amp; Morty App</string>
+    <string name="characters">Caracteres</string>
+    <string name="locations">Ubicaciones</string>
+    <string name="episodes">Episodios</string>
+
+    <string name="unknown_error_message">Error desconocido</string>
+    <string name="unexpected_error">Un error inesperado ha ocurrido</string>
+    <string name="no_data">Sin información</string>
+    <string name="gender">Género: %s</string>
+    <string name="specie">Especie: %s</string>
+    <string name="status">Estatus: %s</string>
+    <string name="origin_planet">Planeta de Origen: %s</string>
+    <string name="episodes_count">Aparecío en: %d episodios</string>
+    <string name="see_residents">Ver residentes →</string>
+    <string name="see_episodes">Ver episodios →</string>
+
+    <string name="episode_name">Nombre del episodio:</string>
+    <string name="season">Temporada/Capitulo:</string>
+    <string name="release_date">Fecha de estreno:</string>
+    <string name="characters_count">En este episodio aparecierón %d personajes</string>
+
+</resources>
